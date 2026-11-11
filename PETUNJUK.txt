@@ -1,0 +1,12 @@
+COMPARE QUEST - Kuis Kalimat Perbandingan (Bahasa Indonesia Kelas 8)
+
+CARA MENJALANKAN
+1. Ekstrak file zip ini.
+2. Buka index.html dengan browser (Chrome, Edge, Firefox, atau Safari). Tidak perlu instalasi atau server.
+3. Di HP: pindahkan folder ke ponsel lalu buka index.html dengan browser, atau unggah ke layanan hosting statis agar bisa dibuka lewat link.
+
+CATATAN
+- Semua kode (HTML, CSS, JavaScript) dan lagu latar ada di dalam index.html.
+- Sambungkan internet agar font Poppins termuat. Tanpa internet, game tetap berjalan dengan font bawaan.
+- Musik latar mulai berbunyi setelah ketukan atau klik pertama. Volume dan on/off ada di pojok kiri atas.
+- Soal dan pembahasan ada di bagian LEVELS pada tag <script> di index.html, bisa diedit langsung.
